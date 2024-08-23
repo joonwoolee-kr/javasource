@@ -33,7 +33,7 @@ public class ArrayEx4 {
             jumsu2[i] = sc.nextInt();
         }
 
-        // 확인
+        // 확인(화면 출력)
         System.out.println(Arrays.toString(jumsu2));
 
         sc.close();
