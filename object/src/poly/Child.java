@@ -1,4 +1,4 @@
-package extendstest;
+package poly;
 
 public class Child extends Parent {
 
