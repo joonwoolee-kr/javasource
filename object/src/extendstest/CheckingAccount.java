@@ -25,8 +25,4 @@ public class CheckingAccount extends Account {
         return withdraw(amount);
     }
 
-    public String getCardNo() {
-        return cardNo;
-    }
-
 }
