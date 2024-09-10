@@ -31,6 +31,10 @@ public class EmpDTO {
         this.deptno = deptno;
     }
 
+    public EmpDTO(int empno2, Object object, Object object2, Object object3, Object object4, int sal2, int comm2,
+            Object object5) {
+    }
+
     public int getEmpno() {
         return empno;
     }
